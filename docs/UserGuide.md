@@ -506,6 +506,11 @@ Find and generate a list of all existing applicants(s) whose information contain
 :information_source: **Notes about the input parameter:** `KEYWORD`s have to be separated by a space.
 </div>
 
+<div markdown="span" class="alert alert-warning">:exclamation: **CAUTION:**
+If you would like to find via an applicant's interview time, please search by the alphanumeric date. For example,
+if you would like to search for applicants interviewing in December, use `finda December` and **not** `finda 12`.
+</div>
+
 ##### Example of usage:
 
 `findapplicant Rui`<br/><br/>
